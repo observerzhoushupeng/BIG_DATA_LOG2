@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e353c02-d01f-4e85-8727-a3eec79b59f6" name="Default Changelist" comment="" />
+    <list default="true" id="5e353c02-d01f-4e85-8727-a3eec79b59f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sxt/log/test/zhoushupeng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,16 +32,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="350">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sxt/log/test/zhoushupeng.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
@@ -75,6 +94,24 @@
             <path>
               <item name="BIG_DATA_LOG2" type="b2602c69:ProjectViewProjectNode" />
               <item name="BIG_DATA_LOG2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_DATA_LOG2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_DATA_LOG2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_DATA_LOG2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_DATA_LOG2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sxt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BIG_DATA_LOG2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIG_DATA_LOG2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sxt" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BIG_DATA_LOG2" type="b2602c69:ProjectViewProjectNode" />
@@ -285,7 +322,7 @@
       <updated>1556033772171</updated>
       <workItem from="1556033808332" duration="4505000" />
       <workItem from="1556110133922" duration="1852000" />
-      <workItem from="1556119144005" duration="1607000" />
+      <workItem from="1556119144005" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="20190424_解决启动后连不上网页的问题，原因是需要重新配置Deployment">
       <created>1556121134003</created>
@@ -298,7 +335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7964000" />
+    <option name="totallyTimeSpent" value="8388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -351,8 +388,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="350">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sxt/log/test/zhoushupeng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
