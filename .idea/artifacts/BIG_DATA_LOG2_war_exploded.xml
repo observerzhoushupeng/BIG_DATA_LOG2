@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BIG_DATA_LOG2:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/BIG_DATA_LOG2_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BIG_DATA_LOG2" />
+        </element>
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="javaee-facet-resources" facet="BIG_DATA_LOG2/web/Web" />
+    </root>
+  </artifact>
+</component>
